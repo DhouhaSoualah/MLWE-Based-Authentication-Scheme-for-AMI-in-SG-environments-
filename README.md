@@ -24,7 +24,7 @@ The protocol enables secure mutual authentication between:
 - Standard C libraries (no external dependencies)
 
 ### Compilation
-1. Clone my repository ^_^
+ Clone my repository ^_^
    ```bash
    git clone https://github.com/DhouhaSoualah/MLWE-Based-Authentication-Scheme-for-AMI-in-SG-environments-.git
    cd MLWE-Based-Authentication-Scheme-for-AMI-in-SG-environments-
