@@ -18,4 +18,13 @@ The protocol enables secure mutual authentication between:
 - **Lightweight Design**: Suitable for resource-constrained AMI devices.
 - **Standard Cryptographic Primitives**: Uses SHA-256 for hashing.
 
-## Project Structure
+### Prerequisites
+- A C compiler (GCC, Clang, or MSVC)
+- Make (optional, for using the provided Makefile)
+- Standard C libraries (no external dependencies)
+
+### Compilation
+1. Clone my repository ^_^
+   ```bash
+   git clone https://github.com/DhouhaSoualah/MLWE-Based-Authentication-Scheme-for-AMI-in-SG-environments-.git
+   cd MLWE-Based-Authentication-Scheme-for-AMI-in-SG-environments-
