@@ -15,7 +15,7 @@ The protocol enables secure mutual authentication between Smart Meters and the C
 | Implementation | Location | Best For | Status |
 |----------------|----------|----------|--------|
 | **C Implementation** | [`./c-implementation/`](./c-implementation/) | Production, embedded devices | ✅ Complete |
-| **Python Implementation** | [`./python-implementation/`](./python-implementation/) | Research, benchmarking, prototyping | 🚧 In Progress |
+| **Python Implementation** | [`./python-implementation/`](./python-implementation/) | Research, benchmarking, prototyping | ✅ Complete |
 
 ##  Quick Start
 
